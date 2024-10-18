@@ -30,6 +30,8 @@ public class LineSegment
         // General case: if the orientations differ, the line segments intersect
         if (o1 != o2 && o3 != o4) return true;
 
+        
+
         // No intersection detected
         return false;
     }

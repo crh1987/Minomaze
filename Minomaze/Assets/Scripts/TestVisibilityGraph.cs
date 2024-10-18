@@ -9,7 +9,7 @@ public class TestVisibilityGraph : MonoBehaviour
     VisibilityGraph graph = new VisibilityGraph();
 
     public Vector2 startPoint = new Vector2(0, 0);
-    public Vector2 endPoint = new Vector2(12, 6);
+    public Vector2 endPoint = new Vector2(12, 10);
 
     // Colors for visualization
     public Color polygonColr = Color.red;
